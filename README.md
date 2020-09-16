@@ -2,4 +2,4 @@
 
 DATASET LINK : https://www.kaggle.com/noulam/tomato
 
-To classify tomato leaf as infected or non-infected usng transfer learning (inception V3)
+To classify tomato leaf as infected or non-infected using transfer learning (inception V3)
